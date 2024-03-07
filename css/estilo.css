@@ -276,6 +276,11 @@ footer {
     justify-content: space-between;
     margin: 0 auto;
 }
+.paragrafo-foot {
+    color:#ffffff;
+    font-size: 12px;
+    
+}
 
 .rodape-conteudo {
     display: flex;
@@ -351,6 +356,11 @@ footer {
     {
         width: 250px;
     }
+    .rodape-conteudo {
+        text-align: center;
+    }
+    
+
 }
 
 @media(max-width: 540px)
